@@ -1,0 +1,34 @@
+# Build outputs
+.vs/
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.log
+*.tlog
+*.recipe
+*.enc
+
+# Visual Studio user/local files
+*.suo
+*.user
+*.rsuser
+*.VC.db
+*.VC.opendb
+
+# Generated runtime data
+Records.bin
+*.bin
+
+# Local assignment/package artifacts
+*.zip
+*.rar
+*.7z
+*.docx
+
+# Duplicate Visual Studio source folder kept from the original workspace
+/Computer Store/
